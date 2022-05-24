@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa9c4eb1-e694-4168-8a6b-565a1e532aeb" name="Changes" comment="" />
+    <list default="true" id="fa9c4eb1-e694-4168-8a6b-565a1e532aeb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyEmployeeWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employeeparttime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MonthlyWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Totalworkinghour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employeeattendence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switchcase.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29bHP7bk5oRcuTMhsYJMJ12aBfi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +44,61 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Totalworkinghour">
+    <configuration name="DailyEmployeeWage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DailyEmployeeWage" />
+      <module name="assignment4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Employeeparttime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Employeeparttime" />
+      <module name="assignment4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Totalworkinghour" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Totalworkinghour" />
+      <module name="assignment4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="employeeattendence" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employeeattendence" />
+      <module name="assignment4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="switchcase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="switchcase" />
+      <module name="assignment4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Totalworkinghour" />
+      <item itemvalue="Application.employeeattendence" />
+      <item itemvalue="Application.Employeeparttime" />
+      <item itemvalue="Application.DailyEmployeeWage" />
+      <item itemvalue="Application.switchcase" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Employeeparttime" />
+        <item itemvalue="Application.switchcase" />
+        <item itemvalue="Application.DailyEmployeeWage" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
