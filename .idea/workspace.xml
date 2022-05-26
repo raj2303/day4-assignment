@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa9c4eb1-e694-4168-8a6b-565a1e532aeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DailyEmployeeWage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employeeparttime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MonthlyWage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Totalworkinghour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/employeeattendence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switchcase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz2/SnakeandLadder/singlegameplayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +36,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Totalworkinghour">
+  <component name="RunManager" selected="Application.singlegameplayer">
     <configuration name="DailyEmployeeWage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DailyEmployeeWage" />
       <module name="assignment4" />
@@ -56,15 +44,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Employeeparttime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Employeeparttime" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Employeeparttime" />
       <module name="assignment4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Totalworkinghour" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Totalworkinghour" />
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <module name="assignment4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,6 +64,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="singlegameplayer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singlegameplayer" />
+      <module name="assignment4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="switchcase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="switchcase" />
       <module name="assignment4" />
@@ -84,16 +78,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Unnamed" type="ShConfigurationType" nameIsGenerated="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Application.Totalworkinghour" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.singlegameplayer" />
       <item itemvalue="Application.employeeattendence" />
       <item itemvalue="Application.Employeeparttime" />
       <item itemvalue="Application.DailyEmployeeWage" />
       <item itemvalue="Application.switchcase" />
+      <item itemvalue="Shell Script.Unnamed" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Employeeparttime" />
         <item itemvalue="Application.switchcase" />
         <item itemvalue="Application.DailyEmployeeWage" />
       </list>
